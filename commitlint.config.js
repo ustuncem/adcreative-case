@@ -5,6 +5,7 @@ export default {
       2,
       "always",
       [
+        "init",
         "feat",
         "fix",
         "docs",
