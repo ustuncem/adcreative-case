@@ -1,6 +1,6 @@
 import {QueryClient, QueryClientProvider} from '@tanstack/react-query';
 
-import {Selectbox} from './components';
+import {Selectbox} from '#components';
 
 const queryClient = new QueryClient();
 

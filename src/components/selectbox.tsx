@@ -1,4 +1,4 @@
-import {useGetCharacters} from '../hooks';
+import {useGetCharacters} from '#hooks';
 
 export default function Selectbox() {
   const charactersQuery = useGetCharacters();
