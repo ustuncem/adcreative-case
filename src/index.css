@@ -31,7 +31,12 @@
 @tailwind utilities;
 
 @layer base {
+  html,
+  #root {
+    @apply h-full;
+  }
+
   body {
-    @apply font-primary;
+    @apply font-primary min-h-screen h-full bg-neutral-100;
   }
 }
