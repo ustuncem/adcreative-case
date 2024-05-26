@@ -1,0 +1,26 @@
+<svg id="Group_4851" data-name="Group 4851" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60.602" height="57.554" viewBox="0 0 60.602 57.554">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0.001" stop-color="#8f006d"/>
+      <stop offset="1" stop-color="#4c00b3"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0.001" stop-color="#c8006d"/>
+      <stop offset="1" stop-color="#8200b3"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0.001" stop-color="#c8006d"/>
+      <stop offset="1" stop-color="#c5009f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" y1="-0.078" x2="0.5" y2="1.101" gradientUnits="objectBoundingBox">
+      <stop offset="0.001" stop-color="#ff3067"/>
+      <stop offset="1" stop-color="#ff009f"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_4851-2" data-name="Group 4851" transform="translate(0 0)">
+    <path id="Path_3567" data-name="Path 3567" d="M334.769,539.356,309.2,552.815a7.689,7.689,0,0,1-7.164,0l-25.565-13.459a2.16,2.16,0,0,1,.058-3.853l29.089-14.2,29.089,14.2a2.16,2.16,0,0,1,.058,3.853Z" transform="translate(-275.321 -496.147)" fill="url(#linear-gradient)"/>
+    <path id="Path_3568" data-name="Path 3568" d="M334.773,426.556l-25.565,13.459a7.689,7.689,0,0,1-7.164,0l-25.565-13.459a2.16,2.16,0,0,1,.058-3.852l29.089-14.2,29.089,14.2a2.16,2.16,0,0,1,.058,3.852Z" transform="translate(-275.325 -392.054)" fill="url(#linear-gradient-2)"/>
+    <path id="Path_3569" data-name="Path 3569" d="M334.774,314.381l-25.565,13.459a7.689,7.689,0,0,1-7.164,0L276.48,314.381a2.16,2.16,0,0,1,.058-3.852l29.089-14.2,29.089,14.2a2.16,2.16,0,0,1,.058,3.852Z" transform="translate(-275.326 -288.539)" fill="url(#linear-gradient-3)"/>
+    <path id="Path_3570" data-name="Path 3570" d="M334.769,212.648,309.2,226.107a7.69,7.69,0,0,1-7.164,0l-25.565-13.459a2.16,2.16,0,0,1,.058-3.853l25.715-12.556a7.689,7.689,0,0,1,6.748,0L334.71,208.8a2.16,2.16,0,0,1,.058,3.853Z" transform="translate(-275.321 -195.459)" fill="url(#linear-gradient-4)"/>
+  </g>
+</svg>
