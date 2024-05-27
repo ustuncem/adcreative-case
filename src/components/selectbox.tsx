@@ -1,4 +1,5 @@
 import Select from 'react-select';
+
 import {useGetCharacters} from '#hooks';
 
 const options = [
@@ -16,7 +17,7 @@ const customStyles = {
     ...base,
     // Your custom styles for the control
   }),
-  option: (base, state) => ({
+  option: base => ({
     ...base,
     display: 'flex',
     alignItems: 'center',
